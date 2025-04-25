@@ -1,5 +1,5 @@
 flask
+flask-cors
 spotdl
-gunicorn
-Flask-Cors
 yt-dlp
+gunicorn
