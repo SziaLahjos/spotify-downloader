@@ -2,3 +2,4 @@ flask
 spotdl
 gunicorn
 Flask-Cors
+yt-dlp
